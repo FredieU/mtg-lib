@@ -1,2 +1,2 @@
-# mtg-lib
+# MTG Library
 Reference website using an existing fan-made API (https://github.com/LartTyler/MHWDB-Docs)
