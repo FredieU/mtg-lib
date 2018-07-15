@@ -1,0 +1,23 @@
+{
+  "name": "mtgexplorer",
+  "version": "1.0.0",
+  "description": "Browse through the MTG API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FredieU/mtgexplorer.git"
+  },
+  "author": "Fredie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FredieU/mtgexplorer/issues"
+  },
+  "homepage": "https://github.com/FredieU/mtgexplorer#readme",
+  "devDependencies": {
+    "nodemon": "^1.18.2"
+  }
+}
